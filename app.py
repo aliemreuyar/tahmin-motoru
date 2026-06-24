@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 
 # --- GENEL AYARLAR ---
-st.set_page_config(page_title="Yapay Zeka Tahmin Motoru", layout="vertical")
+st.set_page_config(page_title="Yapay Zeka Tahmin Motoru", layout="wide")
 
 # ==========================================
 # 🔑 API ANAHTARLARINI BURAYA YAPIŞTIR
